@@ -6,10 +6,11 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 
 ```
 @misc{adc_survey,
-	author = {Murmann, Boris},
-    title = {{ADC Performance Survey 1997-2022}},
-    note = {[Online]. Available: \url{https://github.com/bmurmann/ADC-survey}}
+   author = {Murmann, Boris},
+   title = {{ADC Performance Survey 1997-2022}},
+   note = {[Online]. Available: \url{https://github.com/bmurmann/ADC-survey}}
 }
 ```
 
+**Related Material**
 YouTube Video (A/D Converter Figures of Merit and Performance Trends): https://www.youtube.com/watch?v=dlD0Jz3d594
