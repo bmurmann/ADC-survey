@@ -14,7 +14,7 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 
 [link](/pdf/ISSCC2022-Short Course-Murmann.pdf)
 
-[a relative link](README.md)
+[a relative link](pdf/README.md)
 
 **Related Material**  
 * B. Murmann, "Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications," ISSCC Short Course Presentation, Feb. 2022. [path](pdf/ISSCC2022-Short Course-Murmann.pdf) 
