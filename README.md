@@ -12,10 +12,6 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 }
 ```
 
-[link](/pdf/ISSCC2022-Short Course-Murmann.pdf)
-
-[a relative link](pdf/README.md)
-
 **Related Material**  
 * B. Murmann, "Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications," ISSCC Short Course Presentation, Feb. 2022. [PDF](https://github.com/bmurmann/ADC-survey/blob/69cb1e4e819c9e0222cfbd386968d1f24ade16fa/pdf/ISSCC2022-Short%20Course-Murmann.pdf)) 
 * B. Murmann, M. Verhelst, and Y. Manoli, “Analog-to-Information Conversion,” in NANO-CHIPS 2030, by B. Murmann and B. Hoefflinger (eds.), Springer, 2020. [DOI](http://dx.doi.org/10.1007/978-3-030-18338-7_17)
