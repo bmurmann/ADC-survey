@@ -13,4 +13,5 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 ```
 
 **Related Material**  
+* B. Murmann, “The successive approximation register ADC: a versatile building block for ultra-low-power to ultra-high-speed applications,” in IEEE Communications Magazine, vol. 54, no. 4, pp. 78-83, Apr. 2016. [DOI](http://dx.doi.org/10.1109/MCOM.2016.7452270)
 * B. Murmann, "A/D Converter Figures of Merit and Performance Trends," ISSCCx: Circuit and System Insights, 2015. [YouTube](https://www.youtube.com/watch?v=dlD0Jz3d594) 
