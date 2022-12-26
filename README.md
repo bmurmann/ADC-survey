@@ -12,7 +12,7 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 }
 ```
 
-[link](pdf/ISSCC2022-Short Course-Murmann.pdf)
+[link](/pdf/ISSCC2022-Short Course-Murmann.pdf)
 
 
 **Related Material**  
