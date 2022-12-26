@@ -22,4 +22,4 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 * B. Murmann, “Energy limits in A/D converters,” (Keynote Paper) IEEE Faible Tension Faible Consommation (FTFC), Paris, France, Jun. 2013. [DOI](http://dx.doi.org/10.1109/FTFC.2013.6577781)
 * M. Verhelst and B. Murmann, “Area scaling analysis of CMOS ADCs,” Electronics Letters, vol. 48, no. 6, pp. 314-315, Mar. 15 2012. [DOI](http://dx.doi.org/10.1049/el.2012.0253)
 * B. Murmann, “A/D converter trends: Power dissipation, scaling and digitally assisted architectures,” in Proc. IEEE Custom Integrated Circuits Conf., San Jose, CA, Sep. 2008, pp. 105-112. [DOI](http://dx.doi.org/10.1109/CICC.2008.4672032)
-* B. Murmann, “Limits on ADC Power Dissipation,” in Analog Circuit Design, by M. Steyaert, A.H.M. Roermund, J.H. van Huijsing (eds.), Springer, 2006. [URL](http://www.springeronline.com/sgw/cda/frontpage/0,11855,4-40109-22-56489380-0,00.html)
+* B. Murmann, “Limits on ADC Power Dissipation,” in Analog Circuit Design, by M. Steyaert, A.H.M. Roermund, J.H. van Huijsing (eds.), Springer, 2006. [DOI](https://doi.org/10.1007/1-4020-3885-2_16)
