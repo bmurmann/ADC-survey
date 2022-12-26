@@ -1,4 +1,5 @@
-# ADC Performance Survey 1997-2022 (ISSCC & VLSI Circuit Symposium)
+# ADC Performance Survey
+(ISSCC & VLSI Circuit Symposium)
 
 For use in publications and presentations please cite this data collection as follows:
 B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://github.com/bmurmann/ADC-survey.
