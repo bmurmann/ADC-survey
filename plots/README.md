@@ -2,4 +2,4 @@ This directory provides some examples for plotting the ADC survey data. The Jupi
 
 **Energy plot**: A/D conversion energy (power/sampling rate) versus signal-to-noise and distortion ratio (SNDR). High-resolution designs are typically limited by thermal noise. The energy quadruples per bit (6 dB) and a slope with constant Schreier FOM provides a good fit. For low SNDR, the energy plateaus at some CV^2-type energy level (as opposed to energy needed to overcome noise). Process technology scaling can help with lowering the horizontal asymptote.
 
-<img src="energy_plot.png" width="300" />
+<img src="energy_plot.png" width="400" />
