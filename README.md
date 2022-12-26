@@ -15,7 +15,7 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 **Related Material**  
 * B. Murmann, M. Verhelst, and Y. Manoli, “Analog-to-Information Conversion,” in NANO-CHIPS 2030, by B. Murmann and B. Hoefflinger (eds.), Springer, 2020. [DOI](http://dx.doi.org/10.1007/978-3-030-18338-7_17)
 * B. Murmann, “The successive approximation register ADC: a versatile building block for ultra-low-power to ultra-high-speed applications,” in IEEE Communications Magazine, vol. 54, no. 4, pp. 78-83, Apr. 2016. [DOI](http://dx.doi.org/10.1109/MCOM.2016.7452270)
-* M. Keller, B. Murmann, and Y. Manoli, “Analog-Digital Interfaces—Review and Current Trends,” in CHIPS 2020 VOL. 2, by B. Hoefflinger (ed.), Springer, 2016. [URL](https://link.springer.com/chapter/10.1007/978-3-319-22093-2_4)
+* M. Keller, B. Murmann, and Y. Manoli, “Analog-Digital Interfaces—Review and Current Trends,” in CHIPS 2020 VOL. 2, by B. Hoefflinger (ed.), Springer, 2016. [DOI](https://doi.org/10.1007/978-3-319-22093-2_4)
 * B. Murmann, “The Race for the Extra Decibel: A Brief Review of Current ADC Performance Trajectories,” IEEE Solid-State Circuits Magazine, vol. 7, no. 3, pp. 58-66, 2015. [DOI](http://dx.doi.org/10.1109/MSSC.2015.2442393)
 * B. Murmann, "A/D Converter Figures of Merit and Performance Trends," ISSCCx: Circuit and System Insights, 2015. [YouTube](https://www.youtube.com/watch?v=dlD0Jz3d594)
 * B. Murmann, “Digitally Assisted Data Converter Design,” (Keynote Paper) Proc. ESSCIRC, Bucharest, Romania, Sep. 2013, pp. 24-31. [DOI](http://dx.doi.org/10.1109/ESSCIRC.2013.6649063)
