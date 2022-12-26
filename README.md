@@ -12,5 +12,5 @@ B. Murmann, "ADC Performance Survey 1997-2022," [Online]. Available: https://git
 }
 ```
 
-**Related Material**
-YouTube Video (A/D Converter Figures of Merit and Performance Trends): https://www.youtube.com/watch?v=dlD0Jz3d594
+**Related Material**  
+* B. Murmann, "A/D Converter Figures of Merit and Performance Trends," ISSCCx: Circuit and System Insights, 2015. [YouTube](https://www.youtube.com/watch?v=dlD0Jz3d594) 
