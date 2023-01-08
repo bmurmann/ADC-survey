@@ -4,6 +4,6 @@ This directory provides some examples for plotting the ADC survey data. The Jupi
 
 <img src="energy_plot.png" width="400" />
 
-**Aperture plot**: High-frequency signal-to-noise and distortion ratio (SNDR<sub>hf</sub>) versus input frequency (f<sub>in,hf</sub>). The input frequency is typically chosen as the highest reported, often near f<sub>s</sub>/2. In this case, high-speed converters are typcially limited by clokc jitter, and it is reasonably valid to use the measured SNDR as a proxy for SNR. We see that the best designs get close to an equivalent jitter of approximately 50 fs. It is a grand challenge to generate and distribute a better clock with electronic circuits.
+**Aperture plot**: High-frequency signal-to-noise and distortion ratio (SNDR<sub>hf</sub>) versus input frequency (f<sub>in,hf</sub>). The input frequency is typically chosen as the highest reported, often near f<sub>s</sub>/2. In this case, high-speed converters are typcially limited by clock jitter, and it is reasonably valid to use the measured SNDR as a proxy for SNR. We see that the best designs get close to an equivalent jitter of approximately 50 fs. It is a grand challenge to generate and distribute a better clock with electronic circuits.
 
 <img src="aperture_plot.png" width="400" />
