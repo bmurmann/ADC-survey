@@ -13,7 +13,7 @@ B. Murmann, "ADC Performance Survey 1997-2023," [Online]. Available: https://git
 ```
 
 **Related Material**  
-* B. Murmann, "Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications," ISSCC Short Course Presentation, Feb. 2022. [PDF](https://github.com/bmurmann/ADC-survey/blob/69cb1e4e819c9e0222cfbd386968d1f24ade16fa/pdf/ISSCC2022-Short%20Course-Murmann.pdf)) 
+* B. Murmann, "Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications," ISSCC Short Course Presentation, Feb. 2022. [PDF](https://github.com/bmurmann/ADC-survey/blob/69cb1e4e819c9e0222cfbd386968d1f24ade16fa/pdf/ISSCC2022-Short%20Course-Murmann.pdf) 
 * B. Murmann, M. Verhelst, and Y. Manoli, “Analog-to-Information Conversion,” in NANO-CHIPS 2030, by B. Murmann and B. Hoefflinger (eds.), Springer, 2020. [DOI](http://dx.doi.org/10.1007/978-3-030-18338-7_17)
 * B. Murmann, “The successive approximation register ADC: a versatile building block for ultra-low-power to ultra-high-speed applications,” in IEEE Communications Magazine, vol. 54, no. 4, pp. 78-83, Apr. 2016. [DOI](http://dx.doi.org/10.1109/MCOM.2016.7452270)
 * M. Keller, B. Murmann, and Y. Manoli, “Analog-Digital Interfaces—Review and Current Trends,” in CHIPS 2020 VOL. 2, by B. Hoefflinger (ed.), Springer, 2016. [DOI](https://doi.org/10.1007/978-3-319-22093-2_4)
